@@ -1,0 +1,198 @@
+    1  git clone https://github.com/dev-tim/java-course-starter.git https://github.com/slavikbodrus/clone_repo.git
+    2  git init
+    3  git clone https://github.com/dev-tim/java-course-starter.git https://github.com/slavikbodrus/clone_repo.git
+    4  git clone https://github.com/dev-tim/java-course-starter.git
+    5  ssh
+    6  ssh -k gen
+    7  git add java-course-starter/ https://github.com/slavikbodrus/clone_repo.git
+    8  ды
+    9  ls
+   10  .ssh/ java-course-starter/
+   11  git add java-course-starter/
+   12  git commmit -m "Add all my files"
+   13  cut ~/.ssh/id_rsa.pub
+   14  cut /ssh/id_rsa.pub
+   15  ls
+   16  ls
+   17  cat .bash_history 
+   18  ssh-keygen.exe 
+   19  cat ~/.ssh/id_rsa.pub 
+   20  git clone java-course-starter/ https://github.com/slavikbodrus/clone_repo.git
+   21  git clone https://github.com/slavikbodrus/clone_repo.git java-course-starter/
+   22  ls
+   23  ls java-course-starter/
+   24  rm -rf java-course-starter/
+   25  mkdir work 
+   26  cd  work
+   27  git clone git@github.com:dev-tim/java-course-starter.git
+   28  ls
+   29  cd java-course-starter/
+   30  ls
+   31  cd ..
+   32  cd ..
+   33  mkdir myrepohelloQA
+   34  cd myrepohelloQA/
+   35  git clone git@github.com:slavikbodrus/hello-QA.git
+   36  ls
+   37  cd hello-QA/
+   38  ls
+   39  cd ..
+   40  cd hello-QA/
+   41  git add README.md
+   42  ls
+   43  cd ~
+   44  ls
+   45  cd Downloads/
+   46  ls
+   47  ls | grep andrew
+   48  ls -l
+   49  chmod 400 andrew.pem 
+   50  ls | grep andrew
+   51  ls -l
+   52  cat andrew.pem 
+   53  ssh -i andrew.pem ec2-user@18.194.50.238
+   54  history
+   55  ssh -i andrew.pem ec2-user@3.120.250.176
+   56  cd -/Downloads
+   57  cd /Downloads
+   58  cd ~/Downloads
+   59  ls | wc -l
+   60  ls -la | grep andrew
+   61  chmod 400 andrew.pem 
+   62  ls -la | grep andrew
+   63  chmod a-r andrew.pem 
+   64  ls -la | g andrew
+   65  ls -la | grep andrew
+   66  ssh -i andrew.pem ec2-user@3.120.250.176
+   67  shh-keygen
+   68  cd ~/Downloads
+   69  ssh-keygen
+   70  ls -la /home/Downloads/.ssh/
+   71  ls -la ~/Downloads/.ssh/
+   72  ssh-keygen
+   73  cat annonym25.
+   74  cat annonym25
+   75  cat annonym25.pub
+   76  mv annonym25* ~/.ssh/
+   77  cat ~/.ssh/annomyn25.
+   78  cat ~/.ssh/annonym25
+   79  cat ~/.ssh/annonym25.pub
+   80  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYCBHZnfdRuOayFLK2oSTcHIwoffgC5S1C+tREPLEU7/L+5LfYZsiyOoazGTtYr10L6pNYa7GFu3fx7rOhFjleyuBDlI8RJQUDeexCJ6Z0q3QUXc2tDglKGxDt5izcJqsN3jM1JTl6EfoAWAmenNccXUeXY/99JXZZjks4OClmuLu3NAly0Emba2MQKMhwPfl62Cloz6je03Nk0ZNH5q5eadfqLXJKMeDPyiSMxY6d6oBD+leK4HFzuLLqrNzXRE1hSysnQvT/XslIqcVpyoCC2VmZb9tv23LEpVvoCvnfXufh4XPTlqUiapEcJIEJmprwg9jqDv46628jo6CV5/i7 LenovoUser@LenovoUser-PC
+   81  ssh -i andrew.pem ec2-user@3.120.250.176
+   82  ssh -i ~/.ssh/annonym25 ec2-user@3.120.250.176
+   83  cd ~Download
+   84  cd ~/Downloadcd
+   85  cd ~Downloads
+   86  history
+   87  cd ~/Downloads
+   88  git
+   89  cd ~
+   90  pwd
+   91  cd /Desktop
+   92  cd ~
+   93  mkdir telran5
+   94  echo -e '#! /bin/bash\n date\n "it works"' > /tmp/script.sh
+   95  mv /tmp/script.sh .
+   96  ls
+   97  echo -e '#!/bin/bash\n date\n "it works"' > /tmp/script.sh
+   98  mv /tmp/script.sh .
+   99  chmod 755 script.sh 
+  100  ./script.sh
+  101  ./script.sh
+  102  echo -e '#!/bin/bash\n date\n "it works"' > script.sh
+  103  ./script.sh
+  104  echo -e '#!/bin/bash\n date\n "it works"' > script.sh
+  105  echo -e '#!/bin/bash\n date\n echo "it works"' > script.sh
+  106  chmod 755 script.sh
+  107  ./script.sh
+  108  vi script.sh
+  109  ./script.sh
+  110  vi script2.sh
+  111  ./script2.sh
+  112  vi script2.sh
+  113  vi script2.sh
+  114  ls
+  115  mv script2.sh > ~/Downloads
+  116  cd ~/Downloads
+  117  ls
+  118  cd ~
+  119  ls
+  120  cd ~/Downloads
+  121  mkdir telran5
+  122  cd /telran5
+  123  cd telran5
+  124  vi script.sh
+  125  ./script.sh
+  126  echo "# telran5" >> README.md
+  127  ls
+  128  git init
+  129  ls -la
+  130  ls .git/
+  131  ls -la .git/
+  132  git add README.md
+  133  git add script.sh
+  134  git status
+  135  pwd
+  136  ls -la
+  137  ls -lath
+  138  git status
+  139  pwd
+  140  vi mrrobor.sh
+  141  git status
+  142  git add .
+  143  git status
+  144  git commit -m "my first commit"
+  145  git status
+  146  git blame -e
+  147  git remote add origin https://github.com/sergeyadler/telran5.git
+  148  git push -u origin master
+  149  vi README.md
+  150  cp script.sh bashscript.sh
+  151  ls -la
+  152  date> date.txt
+  153  ls -la
+  154  rm script.sh 
+  155  ls -la
+  156  git status
+  157  git add .
+  158  git status
+  159  git status
+  160  git diff README.md
+  161  git commit -m "modifited readme, new date.txt,rename script.sh"
+  162  git push -u origin master
+  163  history
+  164  ssh -i ~/.ssh/annonym25 ec2-user@3.120.250.176
+  165  nym25 ec2-user@3.120.250.176
+  166  ssh -i ~/.ssh/annonym25 ec2-user@3.120.250.176
+  167  cd ~/Downloads
+  168  ls -lath | grep andrew
+  169  chmod 400 andrew.pem 
+  170  ssh -i andrew.pem ec2-user@3.120.250.176
+  171  ssh -i andrew.pem ec2-user@3.120.250.176
+  172  ssh -i andrew.pem ec2-user@3.120.250.176
+  173  ssh -i andrew.pem ec2-user@3.120.250.176
+  174  cd -/Downloads
+  175  cd ~/Downloads
+  176  ssh -i andrew.pem ec2-user@3.120.250.176
+  177  ssh -i andrew.pem ec2-user@3.122.52.169
+  178  ssh -i ~/.ssh/annonym25 ec2-user@3.122.52.169
+  179  ssh -i andrew.pem ec2-user@3.122.52.169
+  180  history
+  181  git status
+  182  cd ~ Downloads/telran5
+  183  cd ~ Downloads/
+  184  cd ~Downloads/
+  185  cd ~/Downloads
+  186  -lsal
+  187  -ls
+  188  ls
+  189  cd telran5
+  190  git status
+  191  GH-b
+  192  GH-b-
+  193  get chexkout -b Gh-b-Four Seasons
+  194  git status
+  195  git clone   153  ls -la
+  196  git clone 
+  197  https://github.com/sergeyadler/telran5.git
+  198  history >> history.txt
