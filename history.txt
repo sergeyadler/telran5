@@ -1,4 +1,4 @@
-    1  git clone https://github.com/dev-tim/java-course-starter.git https://github.com/slavikbodrus/clone_repo.git
+﻿    1  git clone https://github.com/dev-tim/java-course-starter.git https://github.com/slavikbodrus/clone_repo.git
     2  git init
     3  git clone https://github.com/dev-tim/java-course-starter.git https://github.com/slavikbodrus/clone_repo.git
     4  git clone https://github.com/dev-tim/java-course-starter.git
@@ -196,3 +196,5 @@
   196  git clone 
   197  https://github.com/sergeyadler/telran5.git
   198  history >> history.txt
+
+эээ
