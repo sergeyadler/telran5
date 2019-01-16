@@ -22,15 +22,20 @@ public class Main {
 		for (int i = 0; i < input.length()-1; i++) {
 			if(input.charAt(i)==input.charAt(i+1)){
 			count++;
-			max = count;
+		
 			}
 			else{
 				count=1;
 			}
 			if(count>max){
-				max=count;}
+				max=count;
+				
+			}
 		
-		}return max;
-	}
+		}
+		return max;
 	
+	}
+
 }
+
